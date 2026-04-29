@@ -206,15 +206,16 @@ I have downloaded Podman onto my computer
   #### Third command
   ```bash
   nano Dockerfile
-  <img width="1470" height="930" alt="Screenshot 2026-04-29 at 20 21 45" src="https://github.com/user-attachments/assets/72540331-6c40-446b-b1d8-3d6097e03bd5" />
   ```
+  <img width="1470" height="930" alt="Screenshot 2026-04-29 at 20 21 45" src="https://github.com/user-attachments/assets/72540331-6c40-446b-b1d8-3d6097e03bd5" />
 
   #### Fourth command
   ```bash
-  <img width="1470" height="924" alt="Screenshot 2026-04-29 at 20 25 00" src="https://github.com/user-attachments/assets/fb5381e4-ae5a-4794-ba91-7f8a93170ab1" />
   CTRL O to save
   ENTER to confirm filename
   ```
+  <img width="1470" height="924" alt="Screenshot 2026-04-29 at 20 25 00" src="https://github.com/user-attachments/assets/fb5381e4-ae5a-4794-ba91-7f8a93170ab1" />
+
 
   #### Fifth command (back in terminal):
   ```bash
